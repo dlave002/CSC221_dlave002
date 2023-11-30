@@ -1,0 +1,3 @@
+I am the first line of the file.
+I am the second line. I contain secrets so please don't print me!
+I am the last line.
